@@ -2,7 +2,7 @@
 git tut https://gitee.com/opensource-guide/git-tutorial/getting-started/how-to-install-git.html. 
 https://learngitbranching.js.org/?locale=zh_CN. 
 
-#Task 1
+#Task 1 (4 person)
 
 Liu Cheuk Kei Yuki 24123003d (Set obstacles)
 
@@ -10,10 +10,10 @@ Liu Cheuk Kei Yuki 24123003d (Set obstacles)
                             
 Deng Yuchun Harry 24112212d (cost factor)
 
-#Task 2
+#Task 2 (2 person)
 
 
 
-#Task 3
+#Task 3 (2 person)
 
 He Yinxi 24109157d
