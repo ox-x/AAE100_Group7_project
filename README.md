@@ -4,13 +4,13 @@ https://learngitbranching.js.org/?locale=zh_CN.
 
 #Task 1 (4 person)
 
-Liu Cheuk Kei Yuki 24123003d (Set node, obstacle)
+Liu Cheuk Kei Yuki 24123003d (Step 1)
 
-Liang Chi Ho 24082636d ( two inclined obstacles)
+Liang Chi Ho 24082636d ( Step 1)
                                                   
-Xiao Suen 24107803d  (Set Area)
+Xiao Suen 24107803d  (Step 2)
                             
-Deng Yuchun Harry 24112212d (cost factor)
+Deng Yuchun Harry 24112212d (Step 2)
 
 #Task 2 (2 person)
 
