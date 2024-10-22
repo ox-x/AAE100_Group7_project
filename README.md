@@ -6,7 +6,7 @@ https://learngitbranching.js.org/?locale=zh_CN.
 
 Liu Cheuk Kei Yuki 24123003d (Set obstacles)
 
-                            (Set Area)
+                            (Set Area
                             
 Deng Yuchun Harry 24112212d (cost factor)
 
