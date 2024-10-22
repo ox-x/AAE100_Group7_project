@@ -4,7 +4,7 @@ https://learngitbranching.js.org/?locale=zh_CN.
 
 #Task 1 (4 person)
 
-Liu Cheuk Kei Yuki 24123003d (Step 1)
+ (Step 1)
 
 Liang Chi Ho 24082636d ( Step 1)
                                                   
@@ -22,3 +22,5 @@ Yu Qinxiang 24128609D
 #Task 3 (2 person)
 
 He Yinxi 24109157d
+
+Liu Cheuk Kei Yuki 24123003d
