@@ -4,8 +4,10 @@ https://learngitbranching.js.org/?locale=zh_CN.
 
 #Task 1 (4 person)
 
-Liu Cheuk Kei Yuki 24123003d (Set obstacles)
+Liu Cheuk Kei Yuki 24123003d (Set node, obstacle)
 
+                              (set obstacle)
+                              
                             (Set Area)
                             
 Deng Yuchun Harry 24112212d (cost factor)
