@@ -13,7 +13,9 @@ Xiao Suen 24107803d  (Set Area)
 Deng Yuchun Harry 24112212d (cost factor)
 
 #Task 2 (2 person)
+
 Huang Liangtai 24133635D
+
 Yu Qinxiang 24128609D
 
 
