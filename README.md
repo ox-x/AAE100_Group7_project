@@ -39,10 +39,10 @@ Liu Cheuk Kei Yuki 24123003d
   </ol>
 </details>
 
-## Background of Path Planning to Aviation Engineering
+## Background of Path Planning to Aviation Engineering :flight_departure:	
 Path planning (also known as the navigation problem),can be simply said as its literal meaning, implies
 moving the sepcific object from the source to destination.The term is
-widely used in robotics and computer games, espcailly in Aviation.
+widely used in robotics and computer games, espcailly in Aviation :airplane:.
 
 Aa aviation has become important,if not essential in the transportation system,Path PLanning is needed in 
 Private pilots do the path plan before the flight to make sure the
@@ -53,7 +53,7 @@ Commercial pilot follow the path that plan based on different cost index
 designed by airlines.
 
 
-## Theory of Path Planning Algorithm 
+## Theory of Path Planning Algorithm
 A* search algorithm is the pathfinding algorithm which we are going to use.Simply put,it's a path finder by "cost" calculation,comoparsion.Three varbles included in the algorithm to find the "cost".To begin with, the f(x,y)=g(x,y)+h(x,y) ,which is the total cost of a neighboring node (𝑥, 𝑦).g(x,y) represents the exact cost of the path from the Start node to node (x,y) and the h(x,y) represents the
 heuristic estimated cost from node (x,y) to the Goal node.
 
@@ -64,7 +64,7 @@ The algorithm starts with testing each possible nodes one-by-one from Start node
 ## How the project simulate the Path-Planning process in Aviation
 
 
-#### Map Set-Up
+#### Map Set-Up  🗺️
 Our porject uses x-y coordinate plane as a simplfied map for Path-planning simulation. All potential position you can go across with a unique
 position (𝑥, 𝑦). Blue and Green points on the map are respectively indicated as the Start and Goal nodes,the khaki filled places represents Fuel-consuming area and Pink filled places represents Time-consuming area.Bold lines such as the inclined line from (10,40) to (20,20), or the vertical line from (40,60) to (40,35) are the obstalces which the path can't pass through.
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/GROUP%207%20MAP.png "GROUP 7 MAP")
