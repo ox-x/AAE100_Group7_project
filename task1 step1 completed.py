@@ -19,6 +19,7 @@ import matplotlib.pyplot as plt
 
 show_animation = True
 
+#the calc code is in line 128-142
 # value = [A321neo,A330-900neo,A350-900]
 A = ["A321neo","A330-900neo","A350-900"]
 cost = [0.0,0.0,0.0]
