@@ -60,10 +60,8 @@ designed by airlines.
 
 
 #### Map Set-Up
-Our porject uses x-y coordinate plane as a simplfied map for Path-planning simulation.Blue and Green points on the map are respectively indicated as the Start and Goal nodes,the khaki filled places represents Fuel-consuming area and Pink filled places represents Time-consuming area.
-![image](https://github.com/Blackarade/Hello/blob/main/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202024-10-29%20%E4%B8%8B%E5%8D%881.26.30.png "GROUP 7 MAP")
+Our porject uses x-y coordinate plane as a simplfied map for Path-planning simulation.Blue and Green points on the map are respectively indicated as the Start and Goal nodes,the khaki filled places represents Fuel-consuming area and Pink filled places represents Time-consuming area.Bold lines such as the inclined line from (10,40) to (20,20), or the vertical line from (40,60) to (40,35) are the obstalces which the path can't pass through.
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/GROUP%207%20MAP.png "GROUP 7 MAP")
 
 #### 
 
-
-area
