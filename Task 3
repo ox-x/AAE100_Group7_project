@@ -23,7 +23,7 @@ With lower drag, A322 flies faster with the same constant fuel consumption rate,
 
 Why A322 is suitable in our scanrio ?
 
-Capacity of 273 will carry all 3000 passenger in 11 flights. Total seat avalible on this route will be 3003 while the current demand is 3000. Flights will fly in almost full load,
+Capacity of A322 will carry all 3000 passenger in 11 flights. Total seat avalible on this route will be 3003 while the current demand is 3000. Flights will fly in almost full load,
 maximizing load factor which also indicates the effectiveness of the flight. 
 
 Maximum flight allowed on the route is 12 and the required flight to meet current demand is 11. Leaving room of one more flight to meet demand growth.
@@ -42,6 +42,7 @@ Larger aircraft but no increase in parking fee: Although A322 has a longer wings
 Aircraft with wingspan less than 36 metres is under code C of ICAO aerodrome refrence code, A322 will be allowed to taxi on code C taxiways and code C parking stands.
 Parking fee in a airport usually consider the wingspan of the aircraft, since A322 can be parked can stands that are smaller where large wingspan is not allowed to park. The parking 
 fee will be same as A321. However, runway usage fee will be higher due to higher wake turbulance category but it is unavoidable since the weight of aircraft increases. 
+
 
 
 
