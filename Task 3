@@ -6,6 +6,7 @@ Engine count: 2
 
 Calculation: 370,163.5241683685335$
 Trip time=79.52691193458114 min
+adopt Jet Fuel Price ——>882.30$/mt
 Fuel:882.3$/mt=882.3$/1000kg=0.8823$/kg
 dertaF:20kg/min ×2×79.52691193458114min=3181.0764773832456kg
 CT:273/50=5.46 5.46×2$/min=10.92$/min base: T× 12$/min 22.92$/min×79.52691193458114 min=1,822.756821540599729$
