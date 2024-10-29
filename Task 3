@@ -5,6 +5,12 @@ Passenger capacity : 273
 Engine count: 2 
 
 Calculation: 370,163.5241683685335$
+Trip time=79.52691193458114 min
+Fuel:882.3$/mt=882.3$/1000kg=0.8823$/kg
+dertaF:20kg/min ×2×79.52691193458114min=3181.0764773832456kg
+CT:273/50=5.46 5.46×2$/min=10.92$/min base: T× 12$/min 22.92$/min×79.52691193458114 min=1,822.756821540599729$
+Cc=2000 
+C=CF×dertaF×Tbest+CT×Tbest+Cc=144,958.2212248163057$+2,000$+223,205.3029435522278$=370,163.5241683685335$
 
 Introduction of aircraft:
 A322 is a new type of the A320 family, upgrade of the current A321-XLR. A322 will have similar wing design (foldable wingtip) like the B777-9X and with wider fuselage than A321.
