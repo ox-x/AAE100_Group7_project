@@ -58,6 +58,9 @@ A* search algorithm is the pathfinding algorithm which we are going to use.Simpl
 heuristic estimated cost from node (x,y) to the Goal node.
 
 The algorithm starts with testing each possible nodes one-by-one from Start node,and record its path distance between Start node and it as "g".Also, recording the path distance between Goal node and it as "h". Afterall, calculate all nodes' "f" in the open list (searched nodes) and choose the shortest one and input into close list(arrived nodes).Repeat the mentioned steps until it reaches the goal nodes, then tracing back the arrived nodes to do the double checking.
+
+> [!IMPORTANT]
+> The objective of A* search algorithm is to find the shortest path from Start node to Goal node.
 ## How the project simulate the Path-Planning process in Aviation
 
 
