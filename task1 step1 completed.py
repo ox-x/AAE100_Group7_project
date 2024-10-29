@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 
 show_animation = True
 
-# value = [A321neo,A330-900neo,A330-900]
+# value = [A321neo,A330-900neo,A350-900]
 A = ["A321neo","A330-900neo","A330-900"]
 cost = [0.0,0.0,0.0]
 Cf = 1
