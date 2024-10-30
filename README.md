@@ -24,9 +24,9 @@ Yu Qinxiang 24128609D
 
 #Task 3 (2 person)
 
-He Yinxi 24109157d
+He Yinxi 24109157d (Calculation)
 
-Liu Cheuk Kei Yuki 24123003d
+Liu Cheuk Kei Yuki 24123003d (Aircraft design)
 
 # AAE1001-Group 7-Project
 
