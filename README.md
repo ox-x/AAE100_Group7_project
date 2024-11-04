@@ -82,7 +82,8 @@ through such area is increased due to airflow, legal restrictions and other reas
 As there are cost intensive areas in the map, there are also certain areas where aircrafts
 could consume relatively less fuel (Jet stream). Task 2 is to recreate a jet stream that could benefit our flight route the most.
 ### Task 3
-
+In our real life, aircrafts are designed based on industry needs.For example, A380 is for large global transport hubs and Boeing 737 is developed to cater for short and thin routes. Task 3 is to design a new aircraft by finding out its
+parameters based on the restrictions
 #### Trip Cost of Flight
 The fundamental rationale of the cost index concept is to achieve
 minimum trip cost by means of a trade-off between operating costs
