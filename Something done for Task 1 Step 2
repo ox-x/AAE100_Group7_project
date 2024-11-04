@@ -45,3 +45,9 @@ costs = {
     'A330-900neo': cost_a330,
     'A350-900': cost_a350
 }
+
+# Find the plane with the lowest cost
+lowest_cost_plane = min(costs, key=costs.get)
+lowest_cost = costs[lowest_cost_plane]
+
+print(f"The lowest cost is for {lowest_cost_plane} with a total cost of ${lowest_cost}")
