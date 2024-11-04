@@ -33,3 +33,8 @@ def calculate_cost(plane, flights):
 a321_flights = int(input("Enter the number of A321neo flights: "))
 a330_flights = int(input("Enter the number of A330-900neo flights: "))
 a350_flights = int(input("Enter the number of A350-900 flights: "))
+
+# Calculate the cost for each plane
+cost_a321 = calculate_cost(planes['A321neo'], a321_flights)
+cost_a330 = calculate_cost(planes['A330-900neo'], a330_flights)
+cost_a350 = calculate_cost(planes['A350-900'], a350_flights)
