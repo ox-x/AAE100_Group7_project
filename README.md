@@ -1,4 +1,4 @@
-## Presentation Link
+## Presentation Link :link:
 (https://www.youtube.com/)
 
 #git tut 
@@ -53,7 +53,7 @@ Commercial pilot follow the path that plan based on different cost index
 designed by airlines.
 
 
-## Theory of Path Planning Algorithm
+## Theory of Path Planning Algorithm :
 A* search algorithm is the pathfinding algorithm which we are going to use.Simply put,it's a path finder by "cost" calculation,comoparsion.Three varbles included in the algorithm to find the "cost".To begin with, the f(x,y)=g(x,y)+h(x,y) ,which is the total cost of a neighboring node (𝑥, 𝑦).g(x,y) represents the exact cost of the path from the Start node to node (x,y) and the h(x,y) represents the
 heuristic estimated cost from node (x,y) to the Goal node.
 
@@ -76,13 +76,12 @@ position (𝑥, 𝑦). Blue and Green points on the map are respectively indicat
 
 > [!NOTE]
 > Both  Fuel-consuming area and Time-consuming area can be passed through,but the cost for flying
-through such area is increased due to
-airflow, legal restrictions and other reasons.
-#### Task 1
-#### Task 2
+through such area is increased due to airflow, legal restrictions and other reasons.
+### Task 1
+### Task 2
 As there are cost intensive areas in the map, there are also certain areas where aircrafts
 could consume relatively less fuel (Jet stream). Task 2 is to recreate a jet stream that could benefit our flight route the most.
-#### Task 3
+### Task 3
 
 #### Trip Cost of Flight
 The fundamental rationale of the cost index concept is to achieve
