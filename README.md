@@ -44,7 +44,7 @@ Path planning (also known as the navigation problem),can be simply said as its l
 moving the sepcific object from the source to destination.The term is
 widely used in robotics and computer games, espcailly in Aviation :airplane:.
 
-Aa aviation has become important,if not essential in the transportation system,Path PLanning is needed in 
+Aa aviation has become important,if not essential in the transportation system,Path Planning is needed in 
 Private pilots do the path plan before the flight to make sure the
 navigation aid is available
 For ATC near airports, collaborative path planning is required to make
