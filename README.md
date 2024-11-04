@@ -62,7 +62,12 @@ The algorithm starts with testing each possible nodes one-by-one from Start node
 > [!IMPORTANT]
 > The objective of A* search algorithm is to find the shortest path from Start node to Goal node.
 ## How the project simulate the Path-Planning process in Aviation
-
+### Project Tasks for Flight Path Planning
+1. Find an appropriate aircraft model that achieve the minimum cost for
+the challenge ( Map of Group 7) assigned to our group .
+2. Design a new cost area that can reduce the cost of the route.
+3. Design a new aircraft model within the constrains to achieve
+minimum cost for your group challenge.
 
 #### Map Set-Up  🗺️
 Our porject uses x-y coordinate plane as a simplfied map for Path-planning simulation. All potential position you can go across with a unique
