@@ -28,3 +28,8 @@ def calculate_cost(plane, flights):
     )
     total_cost = cost_per_flight * flights
     return total_cost
+
+# Input the number of flights for each plane
+a321_flights = int(input("Enter the number of A321neo flights: "))
+a330_flights = int(input("Enter the number of A330-900neo flights: "))
+a350_flights = int(input("Enter the number of A350-900 flights: "))
