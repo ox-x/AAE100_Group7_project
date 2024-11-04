@@ -68,9 +68,13 @@ The algorithm starts with testing each possible nodes one-by-one from Start node
 Our porject uses x-y coordinate plane as a simplfied map for Path-planning simulation. All potential position you can go across with a unique
 position (𝑥, 𝑦). Blue and Green points on the map are respectively indicated as the Start and Goal nodes,the khaki filled places represents Fuel-consuming area and Pink filled places represents Time-consuming area.Bold lines such as the inclined line from (10,40) to (20,20), or the vertical line from (40,60) to (40,35) are the obstalces which the path can't pass through.
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/GROUP%207%20MAP.png "GROUP 7 MAP")
+
 > [!NOTE]
 > Both  Fuel-consuming area and Time-consuming area can be passed through,but the cost for flying
 through such area is increased due to
 airflow, legal restrictions and other reasons.
-#### 
+#### Trip Cost of Flight
+The fundamental rationale of the cost index concept is to achieve
+minimum trip cost by means of a trade-off between operating costs
+per hour and incremental fuel burn.
 
