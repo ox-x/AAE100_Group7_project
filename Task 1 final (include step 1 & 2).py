@@ -31,13 +31,13 @@ flight_time = 0
 planes = {
     'A321neo': {
         'fuel_consumption_rate': 54,  # kg/min
-        'time_cost': {'low': 20, 'medium': 27, 'high': 34  },  # $/min
+        'time_cost': {'low': 10, 'medium': 15, 'high': 20  },  # $/min
         'fixed_cost': 1800,  # $
         'passenger_capcity': 200,
     },
     'A330-900neo': {
         'fuel_consumption_rate': 84,  # kg/min
-        'time_cost': {'low': 20, 'medium': 27, 'high': 34  },  # $/min
+        'time_cost': {'low': 15, 'medium': 21, 'high': 27  },  # $/min
         'fixed_cost': 2000,  # $
         'passenger_capcity': 300,
     },
