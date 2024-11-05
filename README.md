@@ -94,3 +94,13 @@ per hour and incremental fuel burn.
 
 To keep it simple in our project, costs of operating an aircraft can be approximated by:
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Cost%20Formula.png "Cost Formula")
+
+|                 |     Case(2 Engine    |
+| -------------   |    --------------    |
+| Capacity        |          273         |
+|Fuel Cost($/kg)  |        0.8823        |
+|Trip Fuel(kg)    |  3181.0764773832456  |
+|Time Cost($/min) |          23          |  
+|Fixed Cost($)    |      2000            |
+|Total Cost($)    |370,163.5241683685335 |
+By calculating the cost with the equation, the overall cost for flying the 2-engine aircraft would be $370,163.5241683685335
