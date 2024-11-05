@@ -74,6 +74,7 @@ position (𝑥, 𝑦). Blue and Green points on the map are respectively indicat
 > Both  Fuel-consuming area and Time-consuming area can be passed through,but the cost for flying
 through such area is increased due to airflow, legal restrictions and other reasons.
 ### Task 1
+In aircraft operation, path selection is crucial. Correct path selection can not only reduce time consumption, but also significantly reduce fuel costs.Task 1 is to select the correct path for the aircraft based on the environment and calculate the lowest-cost combination of aircraft in different situations.
 ### Task 2
 As there are cost intensive areas in the map, there are also certain areas where aircrafts
 could consume relatively less fuel (Jet stream). Task 2 is to recreate a jet stream that could benefit our flight route the most.
