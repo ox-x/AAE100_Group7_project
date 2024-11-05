@@ -23,7 +23,7 @@ show_animation = True
 # input value
 fmax = int(input("Enter total flight max:"))
 P = int(input("Enter passengers:"))
-fuel_cost_per_kg = int(input("Enter fuel_cost_per_kg:"))
+fuel_cost_per_kg = float(input("Enter fuel_cost_per_kg:"))
 level = input("Enter time cost level(low,medium,high): ")
 flight_time = 0
 
