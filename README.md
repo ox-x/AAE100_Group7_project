@@ -6,10 +6,10 @@
  Yu Mengzhi 24102853d (Step 1)
 
 Liang Chi Ho 24082636d (Step 1)
-                                                  
-Xiao Suen 24107803d  (Step 2)
                             
 Deng Yuchun Harry 24112212d (Step 2)
+
+Xiao Suen 24107803d  (Step 2)
 
 #Task 2 (2 person)
 
