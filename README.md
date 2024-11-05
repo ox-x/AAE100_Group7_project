@@ -103,4 +103,7 @@ To keep it simple in our project, costs of operating an aircraft can be approxim
 |Time Cost($/min) |          23          |  
 |Fixed Cost($)    |      2000            |
 |Total Cost($)    |370,163.5241683685335 |
+
 By calculating the cost with the equation, the overall cost for flying the 2-engine aircraft would be $370,163.5241683685335
+
+Based on the calculation in the above, we have decided to design a new twin-engine aircraft to best fit Scenario 1 in task 1. We named this new designed aircraft as A322 ,which is an upgraded version of the A321-XLR and has a similar design with the A330 family. The A322 features a foldable wingtip design similar to the B777-9X, which allows for longer wingtips in-flight, reducing induced drag.Also,the A322 can carry all 3000 passengers in 11 flights, with a total seat availability of 3003, maximizing the load factor. A twin-engine aircraft burns less fuel, the cost will be lower as a result. This A330-400 designed by our group is an aircraft model that best fit Scenario 1 in task 1.
