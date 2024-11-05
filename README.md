@@ -1,10 +1,6 @@
 ## Presentation Link :link:
 (https://www.youtube.com/)
 
-#git tut 
-https://gitee.com/opensource-guide/git-tutorial/getting-started/how-to-install-git.html. 
-https://learngitbranching.js.org/?locale=zh_CN. 
-
 #Task 1 (4 person)
 
  Yu Mengzhi 24102853d (Step 1)
