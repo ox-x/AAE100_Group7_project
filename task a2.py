@@ -20,7 +20,7 @@ import matplotlib.pyplot as plt
 
 show_animation = True
 
-#edit in line 319-323 331-343 383-394 422-429!!!!!!!!!!!!!!!!
+#edit in line 319-323 331-343 383-394 422-429 you can run multiple times to get the best path!!!!!!!!!!!!!!!!
 # input value
 '''
 fmax = int(input("Enter total flight max:"))
@@ -381,7 +381,7 @@ def main():
         ox.append(-12.0)
         oy.append(i)
     # generate random obstacles
-    for _ in range(400):
+    for _ in range(600):
             while True:
                 x = random.randint(-12, 60)
                 y = random.randint(-10, 60)
