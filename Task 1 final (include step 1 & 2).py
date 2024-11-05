@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 
 show_animation = True
 
-#calc function is in line 88!!!
+#calc function is at line 90!!!
 # input value
 fmax = int(input("Enter total flight max:"))
 P = int(input("Enter passengers:"))
@@ -86,6 +86,7 @@ class AStarPlanner:
         self.Delta_C2 = 0.15 # cost intensive area 2 modifier
 
         self.costPerGrid = 1 
+            
     #calc function
     def calculate_cost(self,plan_name, plane, flights, level):
         if flights > fmax:#check Check availability
