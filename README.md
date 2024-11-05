@@ -86,5 +86,5 @@ The fundamental rationale of the cost index concept is to achieve
 minimum trip cost by means of a trade-off between operating costs
 per hour and incremental fuel burn.
 
-To keep it simple in our project,Costs of operating an aircraft can be approximated by:
+To keep it simple in our project, costs of operating an aircraft can be approximated by:
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Cost%20Formula.png "Cost Formula")
