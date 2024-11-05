@@ -1,0 +1,48 @@
+import matplotlib.pyplot as plt
+import matplotlib.patches as patches
+
+# Create a figure and axis
+fig, ax = plt.subplots(figsize=(10, 10))
+
+# Set limits and grid
+ax.set_xlim(-20, 70)
+ax.set_ylim(-20, 70)
+ax.set_xticks(range(-20, 70, 10))
+ax.set_yticks(range(-20, 70, 10))
+ax.grid(True)
+
+# Plot Start and Goal nodes
+ax.plot(-10, 20, 'g*', markersize=15, label='Goal node')
+ax.plot(50, 50, 'b*', markersize=15, label='Start node')
+
+# Plot Fuel-consuming area
+fuel_area = patches.Rectangle((40, 10), 20, 50, linewidth=1, edgecolor='gray', facecolor='khaki', label='Fuel-consuming area')
+ax.add_patch(fuel_area)
+
+# Plot Time-consuming area
+time_area = patches.Rectangle((0, 0), 10, 30, linewidth=1, edgecolor='gray', facecolor='pink', label='Time-consuming area')
+ax.add_patch(time_area)
+
+# Plot obstacles
+obstacles = [
+    [(10, 40), (20, 20)],
+    [(40, 60), (40, 35)],
+    [(20, 20), (30, 20)],
+    [(10, -10), (20, 0)]
+]
+
+for obs in obstacles:
+    ax.plot(*zip(*obs), 'k-', linewidth=2)
+
+# Plot Low-Cost Corridor
+low_cost_corridor = patches.Polygon([(0, 30), (5, 30), (45, 60), (40, 60)], closed=True, linewidth=1, edgecolor='blue', facecolor='lightgreen', alpha=0.5, label='Low-Cost Corridor')
+ax.add_patch(low_cost_corridor)
+
+# Add legend
+ax.legend(loc='upper left')
+
+# Show plot
+plt.title('Path-Planning Simulation with Low-Cost Corridor')
+plt.xlabel('X Coordinate')
+plt.ylabel('Y Coordinate')
+plt.show()
