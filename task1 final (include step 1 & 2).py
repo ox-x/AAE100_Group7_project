@@ -416,7 +416,7 @@ def main():
     a_star = AStarPlanner(ox, oy, grid_size, robot_radius, fc_x, fc_y, tc_x, tc_y)
     rx, ry = a_star.planning(sx, sy, gx, gy)
     
-    #calc cost
+    # Calculate the cost for each plane
     plane_names = list(planes.keys())
     cost_a321 = a_star.calculate_cost(plane_names[0], planes['A321neo'], a321_flights,level)
     cost_a330 = a_star.calculate_cost(plane_names[1], planes['A330-900neo'], a330_flights,level)
