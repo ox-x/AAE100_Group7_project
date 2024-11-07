@@ -1,5 +1,6 @@
 ## Presentation Link :link:
-(https://www.youtube.com/)
+[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
+
 
 #Task 1 (4 person)
 
@@ -118,19 +119,20 @@ Based on the calculation in the above, we named this new designed aircraft as A3
 
 ## Individual reflective essay 📜
 
-1. Liu Cheuk Kei Yuki 24123003d
+#### 1. Liu Cheuk Kei Yuki 24123003d
   I am respondsible for task 3 aircraft design in this project. This assessment enhanced my creativity. I found it quite difficult at the beginning since I believe the market is saturated, aircraft manufacurers have already designed aircraft for almost all different scenario. Although there is currently existing aircraft that can be used in our scenario, there is no existing aircraft that is perfect for our scenario, and by perfect I mean maximising the load factor and minimising cost. Designing a new aircraft which doesn't exist currently is quite charllenging for me and I believe the main goal of the task is requiring me to think out of the box. In the process, I have understood why a tread of retiring four engines aircrafts exist after considering the fuel cost. I have also learnt and applied aerodynamics know-how during the design process in minimising time and fuel cost so I have put new technologies, foldable wingtips and Riblets surface in to our aircraft design. Apart from that, I would also like to apply knowledge that I have gained from other AAE subjects.Therefore, I have also took maintanance cost, training cost and airport expenses in to consideration. 
 
-2.. 
+#### 2.Liang Chi Ho 24082636d
+I am responsible for the README and a part of task 1. Throughout the whole project, everyone didn't know each other from the beginning but finally became cooperative with the other groupmates effectively; I can feel the enhancement of my communication, work processing, and collaboration skills. At first, the project seemed so difficult, if not demanding (since phrases like path-finding algorithm sounds to be unable to handle for a year 1 student like me) that I was afraid I would only help a little in these seemingly professional matters. However, when I dug into it deeper, it turned out to be quite easy to comprehend. It reminded me of the importance of beginning since all things are difficult before they are easy. Moreover, during these lectures' group discussions, I learned the importance of proactive questioning, listening and effective communication. While every groupmate is pre-assigned to do a different part and has their own procedures and procession, only by more asking and more listening to ensure everyone is doing great, no misunderstanding happens, and the cooperation is practical.
 
-3..
+#### 3..
 
-4..
+#### 4..
 
-5..
+#### 5..
 
-6..
+#### 6..
 
-7..
+#### 7..
 
-8..
+#### 8..
