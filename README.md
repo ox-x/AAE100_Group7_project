@@ -86,9 +86,9 @@ Consider the cost factors
 Firstly,count number of flights for aircraft models according to different scenario.Secondly,calculate trip cost from available numbers.Finally,choose the most suitable aircraft by comparing the costs of different aircraft models.The following is the calculation process.
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/handwriting.png)
 We also do it inside our programme.
-![image]()
-![image]()
-![image]()
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/s1.png)
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/s2.png)
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/s3.png)
 ### Task 2
 As there are cost intensive areas in the map, there are also certain areas where aircrafts
 could consume relatively less fuel (Jet stream). Task 2 is to recreate a jet stream that could benefit our flight route the most.
