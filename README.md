@@ -82,7 +82,6 @@ For our map scenario (map set-up), the end node lies on the border of the whole 
 This is how the final code find the path.
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/PATH%20FINDING.gif )
 #### Step 2
-Consider the cost factors
 Firstly,count number of flights for aircraft models according to different scenario.Secondly,calculate trip cost from available numbers.Finally,choose the most suitable aircraft by comparing the costs of different aircraft models.The following is the calculation process.
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/handwriting.png)
 We also do it inside our programme.
