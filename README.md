@@ -84,10 +84,11 @@ This is how the final code find the path.
 #### Step 2
 Consider the cost factors
 Firstly,count number of flights for aircraft models according to different scenario.Secondly,calculate trip cost from available numbers.Finally,choose the most suitable aircraft by comparing the costs of different aircraft models.The following is the calculation process.
-
+![image]()
 We also do it inside our programme.
-
-
+![image]()
+![image]()
+![image]()
 ### Task 2
 As there are cost intensive areas in the map, there are also certain areas where aircrafts
 could consume relatively less fuel (Jet stream). Task 2 is to recreate a jet stream that could benefit our flight route the most.
