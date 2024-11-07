@@ -116,12 +116,12 @@ By calculating the cost with the equation, the overall cost for flying the 2-eng
 
 Based on the calculation in the above, we named this new designed aircraft as A322 ,which is an upgraded version of the A321-XLR and has a similar design with the A330 family. The A322 features a foldable wingtip design similar to the B777-9X, which allows for longer wingtips in-flight, reducing induced drag. Also,the A322 can carry all 3000 passengers in 11 flights, with a total seat availability of 3003, maximizing the load factor. A twin-engine aircraft burns less fuel, the cost will be lower as a result. Thua this A322 designed by our group is an aircraft model that best fit Scenario 1 in task 1.
 
-Individual reflective essay
+## Individual reflective essay 📜
 
 1. Liu Cheuk Kei Yuki 24123003d
   I am respondsible for task 3 aircraft design in this project. This assessment enhanced my creativity. I found it quite difficult at the beginning since I believe the market is saturated, aircraft manufacurers have already designed aircraft for almost all different scenario. Although there is currently existing aircraft that can be used in our scenario, there is no existing aircraft that is perfect for our scenario, and by perfect I mean maximising the load factor and minimising cost. Designing a new aircraft which doesn't exist currently is quite charllenging for me and I believe the main goal of the task is requiring me to think out of the box. In the process, I have understood why a tread of retiring four engines aircrafts exist after considering the fuel cost. I have also learnt and applied aerodynamics know-how during the design process in minimising time and fuel cost so I have put new technologies, foldable wingtips and Riblets surface in to our aircraft design. Apart from that, I would also like to apply knowledge that I have gained from other AAE subjects.Therefore, I have also took maintanance cost, training cost and airport expenses in to consideration. 
 
-2..
+2.. 
 
 3..
 
