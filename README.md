@@ -79,7 +79,7 @@ In aircraft operation, path selection is crucial. Correct path selection can not
 #### Step 1
 For our map scenario (map set-up), the end node lies on the border of the whole map ( their x-coordinates are all -10), which in the path finding code, the code identify the end node as a part of the border/ obstalces which unable to form the route in red colour. (even though the code make it to the end node, check the [python code file](https://github.com/ox-x/AAE100_Group7_project/blob/main/task1%20step1%20oringin.py)). To deal with this issue, we set the border on x=-12 which end node is no longer boarder the path finding consequence.
 
-This is how the final code find the path.
+This is how the final code find the path, the light blue crosses shown on the map indicate the different tries/tests in path finding procedures , while crosses successfully connect the start and end nodes, a red line formed which indicates the path and stop the the path finding testes.(check the [python code file](https://github.com/ox-x/AAE100_Group7_project/blob/main/task1%20step1%20finnal.py) for more details).
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/PATH%20FINDING.gif )
 #### Step 2
 Firstly,count number of flights for aircraft models according to different scenario.Secondly,calculate trip cost from available numbers.Finally,choose the most suitable aircraft by comparing the costs of different aircraft models.The following is the calculation process.
