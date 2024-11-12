@@ -132,10 +132,7 @@ Completing the AAE 1001 Flight Path Planning Project has significantly expanded 
 Lastly，I would like to thank all my groupmates. I really enjoyed working on the project with them and I learnt a lot of new things which will definitely be beneficial ahead in my study.
 
 #### 5. XIAO Suen  24107803d
-I am responsible for the README of Task 1 step 2 and check the answer by calculate.
-
-
-
+I am responsible for the README of Task 1 step 2 and check the answer by calculate. When I first encountered this group task, to be honest, I was a bit scared. I was not familiar with using computers, let alone solving practical problems with code. However, the enthusiastic and responsible group members gave me a lot of confidence, encouraging me to try. As I gradually became familiar with using the program, I found that the task was not as difficult as I had imagined, and I became more adept at using the software. It turns out that writing code is quite interesting, and seeing the program I wrote run successfully gives me a great sense of accomplishment. This task taught me a lot, I not only learned basic coding but also boosted my confidence. More importantly, I learned about teamwork and gained deep friendships.
 
 #### 6..
 
