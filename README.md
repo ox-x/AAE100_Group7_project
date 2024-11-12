@@ -128,7 +128,8 @@ I am responsible for the README and a part of task 1. Throughout the whole proje
 #### 3.Deng Yuchun 24112212d
 
 #### 4.He Yinxi 24109157d
-
+Completing the AAE 1001 Flight Path Planning Project has significantly expanded my knowledge and skill set. This course has been instrumental in broadening my understanding of these technologies. I've had to learn how to use GitHub, Visual Studio Code and Python, which were all new to me. Although I did not contribute to the coding part, because my partners are so capable, I played a role in the project by assisting with the calculations for Task 1 scenarios, where our objective was to design a new aircraft. 
+Lastly，I would like to thank all my groupmates. I really enjoyed working on the project with them and I learnt a lot of new things which will definitely be beneficial ahead in my study.
 
 #### 5..
 
