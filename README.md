@@ -125,7 +125,7 @@ Based on the calculation in the above, we named this new designed aircraft as A3
 #### 2.Liang Chi Ho 24082636d
 I am responsible for the README and a part of task 1. Throughout the whole project, everyone didn't know each other from the beginning but finally became cooperative with the other groupmates effectively; I can feel the enhancement of my communication, work processing, and collaboration skills. At first, the project seemed so difficult, if not demanding (since phrases like path-finding algorithm sounds to be unable to handle for a year 1 student like me) that I was afraid I would only help a little in these seemingly professional matters. However, when I dug into it deeper, it turned out to be quite easy to comprehend. It reminded me of the importance of beginning since all things are difficult before they are easy. Moreover, during these lectures' group discussions, I learned the importance of proactive questioning, listening and effective communication. While every groupmate is pre-assigned to do a different part and has their own procedures and procession, only by more asking and more listening to ensure everyone is doing great, no misunderstanding happens, and the cooperation is practical.
 
-#### 3..
+#### 3.Deng Yuchun 24112212d
 
 #### 4..
 
