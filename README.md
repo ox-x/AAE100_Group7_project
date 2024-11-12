@@ -134,7 +134,8 @@ Lastly，I would like to thank all my groupmates. I really enjoyed working on th
 #### 5. XIAO Suen  24107803d
 I am responsible for the README of Task 1 step 2 and check the answer by calculate. When I first encountered this group task, to be honest, I was a bit scared. I was not familiar with using computers, let alone solving practical problems with code. However, the enthusiastic and responsible group members gave me a lot of confidence, encouraging me to try. As I gradually became familiar with using the program, I found that the task was not as difficult as I had imagined, and I became more adept at using the software. It turns out that writing code is quite interesting, and seeing the program I wrote run successfully gives me a great sense of accomplishment. This task taught me a lot, I not only learned basic coding but also boosted my confidence. More importantly, I learned about teamwork and gained deep friendships.
 
-#### 6..
+#### 6. Yu Mengzhi  24102853d
+I was the leader of the project, and was mainly responsible for the code part in this project. I gained a deeper understanding of a* and other path algorithms in the process of writing the code. Completing various tasks in a real airplane operation scenario greatly improved my practical ability. One person cannot accomplish such a large amount of tasks, so teamwork is necessary. Decentralizing tasks to each member and allowing each person to fully utilize his/her abilities is the core problem in team management, and while solving this problem, I have stronger team management skills.
 
 #### 7..
 
