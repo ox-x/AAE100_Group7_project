@@ -147,10 +147,12 @@ for y_offset in range(-10, 56):  # y_offset ranges from -10 to 55 (inclusive of 
 print(f"the lowest cost: {best_time}, the y_offset of low cost area: {best_lc_position}")
 ```
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%202%20calculate.gif)
-![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%202.png)
 [calculation code file](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%202%20calculate.py)
+
 Below is the lowest cost path for the jet stream area with y_offset of 20.
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%202%20result.gif)
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%202.png)
+
 ### Task 3 
 In our real life, aircrafts are designed based on industry needs.For example, A380 is for large global transport hubs and Boeing 737 is developed to cater for short and thin routes. Task 3 is to design a new aircraft by finding out its
 parameters based on the restrictions
