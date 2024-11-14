@@ -282,6 +282,18 @@ Below is the final path
 
 #### Additional Task 3
 We use DijkstraPlanner BFSPlanner and A*Planner to find the shortest path in a same scenario and compare their performance in terms of time and path length.
+```python
+import time
+
+#~~~ ~~~
+
+start_time = time.time()
+
+#~~~ ~~~
+
+end_time = time.time()
+print(f"Time taken: {end_time - start_time:.4f} seconds")
+```
 
 1. DijkstraPlanner
 ##### Algorithm Functionality:
