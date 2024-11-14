@@ -273,15 +273,49 @@ def generate_random_points(): # generate random start and goal position
 
 sx, sy, gx, gy = generate_random_points()
 ```
+
 Below is the final path
+
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a2.png)
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a2%20output.png)
 [**code file**](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a2.py)
 #### Additional Task 3
+We use DijkstraPlanner BFSPlanner and A*Planner to find the shortest path in a same scenario and compare their performance in terms of time and path length.
 
-
-
-
+1. DijkstraPlanner
+###### Algorithm Functionality:
+Dijkstra's algorithm operates by iteratively selecting the node with the smallest tentative distance from the start node and exploring its neighboring nodes. It updates the distances to these neighbors and continues until all nodes have been explored.
+###### Optimal Path Finding:
+The DijkstraPlanner guarantees finding the shortest path in terms of total weight, which is critical in various applications such as route optimization, logistics, and navigation.
+###### Performance:
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Dijkstra.png)
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Dijkstra%20fig.png)
+[**code file**](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a3.1%20Dijkstra's%20Algorithm.py)
+2. BFSPlanner
+###### Algorithm Functionality:
+Breadth-first search (BFS) is a graph traversal algorithm that starts at the root node (or some arbitrary node of a graph) and explores all of its neighbor nodes at the present depth prior to moving on to the nodes at the next depth level.
+###### Optimal Path Finding:
+In unweighted graphs, BFS guarantees finding the shortest path from the start to the goal node because it visits nodes in layers, treating all edges as having equal weight (or treating them as equivalent).
+###### Performance:
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/BFS.png)
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/BFS%20fig.png)
+[**code file**](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a3.2%20Breadth-First%20Search.py)
+3. A*Planner
+###### Algorithm Functionality:
+A* is a graph traversal and path search algorithm that combines the best of BFS and Dijkstra's algorithm. It uses a heuristic function to estimate the distance from the current node to the goal node, and combines this with the Dijkstra's algorithm's idea of using a priority queue to select the node with the smallest tentative distance.
+###### Optimal Path Finding:
+A* uses a cost function f(n) = g(n) + h(n) to evaluate the priority of each node:
+g(n): The actual cost from the start node to the current node.
+h(n): The heuristic estimate of the cost from the current node to the goal node, often calculated using Manhattan distance or Euclidean distance.
+This combination allows the A* algorithm to efficiently search while ensuring an optimal solution is found.
+##### Performance:
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/A*.png)
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/A*%20fig.png)
+[**code file**](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a3.3%20A*%20Algorithm.py)
+4. Comparison
+DijkstraPlanner and BFSPlanner have a similar time complexity and path length.
+However, A*Planner has a better performance in terms of time complexity and path length. 
+Therefore, A*Planner is the best choice for this scenario.
 
 ## Individual reflective essay 📜
 
