@@ -184,6 +184,7 @@ Based on the calculation in the above, we named this new designed aircraft as A3
 
 #### Additional Task 1
 Assume the aircraft is a supply craft that must reach 2 drop-off points to drop supplies before heading to base.
+
 Below is the code to plot the checkpoint positions on the map.
 ```python
 # checkpoint position
@@ -207,7 +208,7 @@ Below is the final path from start to goal with two drop-off points.
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a1.png)
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a1%20output.png)
 
-[code file](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a1.py)
+**[code file]**(https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a1.py)
 
 #### Additional Task 2
 
