@@ -25,15 +25,25 @@ Liu Cheuk Kei Yuki 24123003d (Step 1)
 
 He Yinxi 24109157d (Step 2)
 
+#Additional Task
+
+Yu Mengzhi 24102853d 
 
 # AAE1001-Group 7-Project
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-    <li><a href="##Background-of-Path-Planning-to-Aviation-Engineering">Background of Path Planning to Aviation Engineering</a></li>
-    <li><a href="##Theory-of-Path-Planning-Algorithm">Theory of Path Planning Algorithm</a></li>
-    <li><a href="##How the project simulate the Path-Planning process in Aviation">How the project simulate the Path-Planning process in Aviation</a></li>
+   - [Background of Path Planning to Aviation Engineering :flight_departure:	](#Background-of-Path-Planning-to-Aviation-Engineering-flight_departure)
+   - [Theory of Path Planning Algorithm :](#Theory-of-Path-Planning-Algorithm-)
+   - [How the project simulate the Path-Planning process in Aviation](#How-the-project-simulate-the-Path-Planning-process-in-Aviation)
+    -[Task 1](#Task-1)
+    -[Task 2](#Task-2)
+    -[Task 3](#Task-3)
+    -[Additional Task](#Additional-Task)
+   - [Individual reflective essay 📜](#Individual-reflective-essay-)
+
+
   </ol>
 </details>
 
@@ -116,6 +126,18 @@ To keep it simple in our project, costs of operating an aircraft can be approxim
 By calculating the cost with the equation, the overall cost for flying the 2-engine aircraft would be $370,163.5241683685335
 
 Based on the calculation in the above, we named this new designed aircraft as A322 ,which is an upgraded version of the A321-XLR and has a similar design with the A330 family. The A322 features a foldable wingtip design similar to the B777-9X, which allows for longer wingtips in-flight, reducing induced drag. Also,the A322 can carry all 3000 passengers in 11 flights, with a total seat availability of 3003, maximizing the load factor. A twin-engine aircraft burns less fuel, the cost will be lower as a result. Thua this A322 designed by our group is an aircraft model that best fit Scenario 1 in task 1.
+
+### Additional Task
+
+#### Additional Task 1
+
+#### Additional Task 2
+
+#### Additional Task 3
+
+#### Additional Task 3
+
+
 
 ## Individual reflective essay 📜
 
