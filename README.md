@@ -334,6 +334,12 @@ This combination allows the A* algorithm to efficiently search while ensuring an
 
 4. Comparison
 
+| Performance   | Path Length    | Tine Cost    |
+|----------|----------|----------|
+| DijkstraPlanner  | 79.5269  | 0.7591  |
+| BFSPlanner  | 79.7754  | 0.7280  |
+| A* Planner  | 79.5269  | 0.4478  |
+
 DijkstraPlanner and BFSPlanner have a similar time complexity and path length.
 
 However, A* Planner has a better performance in terms of time complexity and path length. 
