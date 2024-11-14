@@ -99,13 +99,15 @@ We also do it inside our programme.
 ### Task 2
 As there are cost intensive areas in the map, there are also certain areas where aircrafts
 could consume relatively less fuel (Jet stream). Task 2 is to recreate a jet stream that could benefit our flight route the most.
-Cost along the jet stream is reduced by 5%.
+
+The cost along the jet stream is reduced by 5%.
 ```python
 if self.calc_grid_position(node.x, self.min_x) in self.lc_x:
                     if self.calc_grid_position(node.y, self.min_y) in self.lc_y:
                         node.cost -= 0.05 * self.motion[i][2]
 ```
 The area of the jet stream span acrossthe map laterally and span 5-unit length vertically.
+
 The following is the code to create the jet stream area which y_offset is from -10 to 55 and calculate the path for each jet stream area to find the minimum cost path.
 ```python
 # set low cost area
@@ -148,13 +150,13 @@ print(f"the lowest cost: {best_time}, the y_offset of low cost area: {best_lc_po
 ```
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%202%20calculate.gif)
 
-[calculation code file](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%202%20calculate.py)
+[**calculation code file**](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%202%20calculate.py)
 
 Below is the lowest cost path for the jet stream area with y_offset of 20.
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%202%20result.gif)
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%202.png)
 
-[result code file](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task2%20result.py)
+[**result code file**](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task2%20result.py)
 
 ### Task 3 
 In our real life, aircrafts are designed based on industry needs.For example, A380 is for large global transport hubs and Boeing 737 is developed to cater for short and thin routes. Task 3 is to design a new aircraft by finding out its
@@ -208,7 +210,7 @@ Below is the final path from start to goal with two drop-off points.
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a1.png)
 ![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a1%20output.png)
 
-**[code file]**(https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a1.py)
+[**code file**](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a1.py)
 
 #### Additional Task 2
 
