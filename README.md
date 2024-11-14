@@ -204,10 +204,10 @@ rx2, ry2 = a_star.planning(cpx1, cpy1, cpx2, cpy2) #plan the path from first che
 rx3, ry3 = a_star.planning(cpx2, cpy2, gx, gy) #plan the path from second checkpoint to goal
 ```
 Below is the final path from start to goal with two drop-off points.
-![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a2.png)
-![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a2%20output.png)
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a1.png)
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a1%20output.png)
 
-[code file](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a2.py)
+[code file](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a1.py)
 
 #### Additional Task 2
 
