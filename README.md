@@ -35,10 +35,10 @@ Yu Mengzhi 24102853d
 - [Background of Path Planning to Aviation Engineering :flight_departure:	](#Background-of-Path-Planning-to-Aviation-Engineering-flight_departure)
 - [Theory of Path Planning Algorithm :](#Theory-of-Path-Planning-Algorithm-)
 - [How the project simulate the Path-Planning process in Aviation](#How-the-project-simulate-the-Path-Planning-process-in-Aviation)
-  -[Task 1](#Task-1)
-  -[Task 2](#Task-2)
-  -[Task 3](#Task-3)
-  -[Additional Task](#Additional-Task)
+  - [Task 1](#Task-1)
+  - [Task 2](#Task-2)
+  - [Task 3](#Task-3)
+  - [Additional Task](#Additional-Task)
 - [Individual reflective essay 📜](#Individual-reflective-essay-)
 
 
