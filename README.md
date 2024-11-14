@@ -31,21 +31,17 @@ Yu Mengzhi 24102853d
 
 # AAE1001-Group 7-Project
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-   - [Background of Path Planning to Aviation Engineering :flight_departure:	](#Background-of-Path-Planning-to-Aviation-Engineering-flight_departure)
-   - [Theory of Path Planning Algorithm :](#Theory-of-Path-Planning-Algorithm-)
-   - [How the project simulate the Path-Planning process in Aviation](#How-the-project-simulate-the-Path-Planning-process-in-Aviation)
-    -[Task 1](#Task-1)
-    -[Task 2](#Task-2)
-    -[Task 3](#Task-3)
-    -[Additional Task](#Additional-Task)
-   - [Individual reflective essay 📜](#Individual-reflective-essay-)
+## TABLE OF CONTENTS
+- [Background of Path Planning to Aviation Engineering :flight_departure:	](#Background-of-Path-Planning-to-Aviation-Engineering-flight_departure)
+- [Theory of Path Planning Algorithm :](#Theory-of-Path-Planning-Algorithm-)
+- [How the project simulate the Path-Planning process in Aviation](#How-the-project-simulate-the-Path-Planning-process-in-Aviation)
+  -[Task 1](#Task-1)
+  -[Task 2](#Task-2)
+  -[Task 3](#Task-3)
+  -[Additional Task](#Additional-Task)
+- [Individual reflective essay 📜](#Individual-reflective-essay-)
 
 
-  </ol>
-</details>
 
 ## Background of Path Planning to Aviation Engineering :flight_departure:	
 Path planning (also known as the navigation problem),can be simply said as its literal meaning, implies
