@@ -99,6 +99,58 @@ We also do it inside our programme.
 ### Task 2
 As there are cost intensive areas in the map, there are also certain areas where aircrafts
 could consume relatively less fuel (Jet stream). Task 2 is to recreate a jet stream that could benefit our flight route the most.
+Cost along the jet stream is reduced by 5%.
+```python
+if self.calc_grid_position(node.x, self.min_x) in self.lc_x:
+                    if self.calc_grid_position(node.y, self.min_y) in self.lc_y:
+                        node.cost -= 0.05 * self.motion[i][2]
+```
+The area of the jet stream span acrossthe map laterally and span 5-unit length vertically.
+The following is the code to create the jet stream area which y_offset is from -10 to 55 and calculate the path for each jet stream area to find the minimum cost path.
+```python
+# set low cost area
+best_time = float('inf')
+best_lc_position = None
+
+# try different y_offset for the low cost area
+for y_offset in range(-10, 56):  # y_offset ranges from -10 to 55 (inclusive of -10 and 55)
+    lc_x, lc_y = [], []
+    for i in range(-12, 60):  # x stays between -12 and 60
+        for j in range(y_offset, y_offset + 5):
+            lc_x.append(i)
+            lc_y.append(j)  # y value is the current y_offset
+    plt.plot(ox, oy, ".k") # plot the obstacle
+    plt.plot(sx, sy, "og") # plot the start position 
+    plt.plot(gx, gy, "xb") # plot the end position
+    
+    plt.plot(fc_x, fc_y, "oy") # plot the cost intensive area 1
+    plt.plot(tc_x, tc_y, "or") # plot the cost intensive area 2
+    #plt.plot(lc_x, lc_y, "ob") # plot the low cost area
+
+    plt.grid(True) # plot the grid to the plot panel
+    plt.axis("equal") # set the same resolution for x and y axis 
+    plt.plot(lc_x, lc_y, "ob")
+    
+    a_star = AStarPlanner(ox, oy, grid_size, robot_radius, fc_x, fc_y, tc_x, tc_y, lc_x, lc_y)
+    rx, ry = a_star.planning(sx, sy, gx, gy)
+    plt.plot(rx, ry, "-r") # show the route 
+    plt.pause(0.001) # pause 0.001 seconds
+    #plt.show() # show the plot
+
+    total_time = flight_time
+
+    # compare the total time with the best time
+    if total_time < best_time:
+        best_time = total_time
+        best_lc_position = y_offset  # record the y_offset of the low cost area
+
+print(f"the lowest cost: {best_time}, the y_offset of low cost area: {best_lc_position}")
+```
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%202%20calculate.gif)
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%202.png)
+[calculation code file](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%202%20calculate.py)
+Below is the lowest cost path for the jet stream area with y_offset of 20.
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%202%20result.gif)
 ### Task 3 
 In our real life, aircrafts are designed based on industry needs.For example, A380 is for large global transport hubs and Boeing 737 is developed to cater for short and thin routes. Task 3 is to design a new aircraft by finding out its
 parameters based on the restrictions
@@ -126,6 +178,7 @@ Based on the calculation in the above, we named this new designed aircraft as A3
 ### Additional Task
 
 #### Additional Task 1
+
 
 #### Additional Task 2
 
