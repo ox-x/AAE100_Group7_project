@@ -213,10 +213,73 @@ Below is the final path from start to goal with two drop-off points.
 [**code file**](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a1.py)
 
 #### Additional Task 2
+Assume the mission and the environment keep changing for each operation
 
+Only the fuel-consuming area remains and generate it randomly with a fixed area (40x40)
+```python
+# set random cost intesive area 
+fc_x, fc_y = [], []
+bottom_left_x = random.randint(-12, 20) # random position for the bottom left corner of the cost intensive area 
+bottom_left_y = random.randint(-10, 20) 
+for i in range(bottom_left_x,bottom_left_x+40):
+    for j in range(bottom_left_y,bottom_left_y+40):
+        fc_x.append(i)
+        fc_y.append(j)
+```
+Diagonal movement is disabled, change parameter(s) so that the object could travel within one grid size
+```python
+def get_motion_model(): # the cost of the surrounding 8 points
+    # dx, dy, cost
+    motion = [[1, 0, 1],
+              [0, 1, 1],
+              [-1, 0, 1],
+              [0, -1, 1],]
+              # diagonal move is not allowed               
+              # [-1, -1, math.sqrt(2)],
+              # [-1, 1, math.sqrt(2)],
+              # [1, -1, math.sqrt(2)],
+              # [1, 1, math.sqrt(2)]]
+            
+    return motion
+```
+Obstacles are generated randomly with the number of 600 and the obstacles are not generated around the start and goal position.
+```python
+# generate random obstacles
+for _ in range(600):
+        while True:
+            x = random.randint(-12, 60)
+            y = random.randint(-10, 60)
+            
+            # check if the point is inside or around the start and goal position
+            if not (sx - 5 <= x <= sx + 5 and sy - 5 <= y <= sy + 5) and \
+                not (gx - 5 <= x <= gx + 5 and gy - 5 <= y <= gy + 5):
+                ox.append(x)
+                oy.append(y)
+                break
+```
+Destination and starting points are generated randomly with at least a 40-unit distance in-between
+```python
+def generate_random_points(): # generate random start and goal position
+    sx = random.uniform(-10, 58)
+    sy = random.uniform(-8, 58)
+    while True:
+        gx = random.uniform(-10, 58)
+        gy = random.uniform(-8, 58)
+        distance = math.sqrt((gx - sx) ** 2 + (gy - sy) ** 2)
+        if distance >= 40:
+            break
+
+    return sx, sy, gx, gy
+
+sx, sy, gx, gy = generate_random_points()
+```
+Below is the final path
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a2.png)
+![image](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a2%20output.png)
+[**code file**](https://github.com/ox-x/AAE100_Group7_project/blob/main/Task%20a2.py)
 #### Additional Task 3
 
-#### Additional Task 3
+
 
 
 
