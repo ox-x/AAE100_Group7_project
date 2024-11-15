@@ -334,7 +334,7 @@ This combination allows the A* algorithm to efficiently search while ensuring an
 
 4. Comparison
 
-| Performance   | Path Length    | Tine Cost    |
+| Performance   | Path Length    | Time Cost    |
 |----------|----------|----------|
 | DijkstraPlanner  | 79.5269  | 0.7591  |
 | BFSPlanner  | 79.7754  | 0.7280  |
