@@ -366,6 +366,7 @@ I am responsible for the README of Task 1 step 2 and check the answer by calcula
 #### 6. Yu Mengzhi  24102853d
 I was the leader of the project, and was mainly responsible for the code part in this project. I gained a deeper understanding of a* and other path algorithms in the process of writing the code. Completing various tasks in a real airplane operation scenario greatly improved my practical ability. One person cannot accomplish such a large amount of tasks, so teamwork is necessary. Decentralizing tasks to each member and allowing each person to fully utilize his/her abilities is the core problem in team management, and while solving this problem, I have stronger team management skills.
 
-#### 7..
+#### 7..Yu Qinxiang 24128609d
+I am responsible for task 2 path planning to recreate better flight routine. I learned about the foundational concepts of path-planning algorithms like A*. I have gained further understanding of 2D path planning in aviation. Learned how to handle obstacles in my path-planning algorithm to ensure the path doesn't cross impassable lines. At the same time, I familiarized with coordinate Systems which learned how x-y coordinate planes work and how to represent nodes and obstacles on a map. I also have a better understanding of coding, and know the purpose and function of various software such as vscode，python and Matlab.
 
 #### 8..
