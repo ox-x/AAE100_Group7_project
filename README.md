@@ -370,4 +370,5 @@ I was the leader of the project, and was mainly responsible for the code part in
 #### 7..Yu Qinxiang 24128609d
 I am responsible for task 2 path planning to recreate better flight routine. I learned about the foundational concepts of path-planning algorithms like A*. I have gained further understanding of 2D path planning in aviation. Learned how to handle obstacles in my path-planning algorithm to ensure the path doesn't cross impassable lines. At the same time, I familiarized with coordinate Systems which learned how x-y coordinate planes work and how to represent nodes and obstacles on a map. I also have a better understanding of coding, and know the purpose and function of various software such as vscode，python and Matlab.
 
-#### 8..
+#### 8.Huang Liangtai 24133635d
+I am responsible for task 2 of the project.For this I learnt a lot about mesh position calculations, including the cost of adjusting nodes and path planning and other stuff.I became familiar with coordinate systems, how the x-y coordinate plane works and how to represent nodes and obstacles on a map. I also gained a better understanding of coding and learned about the uses and functions of various software such as Python. I think this project will have a lot of impact and help me in my future code learning!
