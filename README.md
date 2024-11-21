@@ -1,6 +1,5 @@
-## Presentation Link :link:
-[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
-
+## AI Usage: 
+###### We used chatgpt and gihub copilot to help with the code section.
 
 #Task 1 (4 person)
 
