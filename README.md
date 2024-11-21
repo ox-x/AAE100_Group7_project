@@ -1,6 +1,7 @@
 ## AI Usage: 
 ### We used chatgpt and gihub copilot to help with the code section.
 
+## Division of  tasks
 #Task 1 (4 person)
 
  Yu Mengzhi 24102853d (Step 1)
