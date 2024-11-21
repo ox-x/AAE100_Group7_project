@@ -1,5 +1,5 @@
 ## AI Usage: 
-###### We used chatgpt and gihub copilot to help with the code section.
+### We used chatgpt and gihub copilot to help with the code section.
 
 #Task 1 (4 person)
 
