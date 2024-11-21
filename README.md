@@ -1,5 +1,6 @@
+# AAE1001-Group 7-Project
 ## AI Usage: 
-### We used chatgpt and gihub copilot to help with the code section.
+We used chatgpt and gihub copilot to help with the code section.
 
 ## Division of  tasks
 #Task 1 (4 person)
@@ -29,7 +30,7 @@ He Yinxi 24109157d (Step 2)
 
 Yu Mengzhi 24102853d 
 
-# AAE1001-Group 7-Project
+
 
 ## TABLE OF CONTENTS
 - [Background of Path Planning to Aviation Engineering :flight_departure:	](#Background-of-Path-Planning-to-Aviation-Engineering-flight_departure)
