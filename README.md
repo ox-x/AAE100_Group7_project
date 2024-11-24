@@ -1,6 +1,6 @@
 # AAE1001-Group 7-Project
 ## AI Usage: 
-We used chatgpt and gihub copilot to help with the code section.
+We used ChatGPT and GitHub Copilot to help with the code section.
 
 ## Division of  tasks
 #Task 1 (4 person)
@@ -12,6 +12,7 @@ Liang Chi Ho 24082636d (Step 1)
 Deng Yuchun Harry 24112212d (Step 2)
 
 Xiao Suen 24107803d  (Step 2)
+
 
 #Task 2 (2 person)
 
@@ -25,6 +26,7 @@ Yu Qinxiang 24128609D
 Liu Cheuk Kei Yuki 24123003d (Step 1)
 
 He Yinxi 24109157d (Step 2)
+
 
 #Additional Task
 
